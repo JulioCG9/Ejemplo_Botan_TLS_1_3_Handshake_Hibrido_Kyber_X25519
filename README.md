@@ -6,7 +6,7 @@ Este trabajo ha sido realizado como parte de un periodo de prácticas curricular
 
 ## Resumen General
 
-Los contenidos del documento [Botan_TLS_1_3_Handshake_Hibrido_Kyber_X25519.md](https://github.com/JulioCG9/Ejemplo_Botan_TLS_1_3_Handshake_Hibrido_Kyber_X25519/blob/633d4550969b8f0694db8d10c5460a39f8b50de5/Botan_TLS_1_3_Handshake_Hibrido_Kyber_X25519.md) tienen como objetivo ejemplificar de forma concisa, directa y gradual los pasos a seguir para realizar un *handshake* híbrido TLS 1.3 por medio de la librería criptográfica [Botan](https://github.com/randombit/botan). Los elementos que componen el proceso de hibridación son el esquema KEM PQC "Kyber" y el esquema KEM clásico de curva elíptica "x25519".
+Los contenidos del documento [Botan_TLS_1_3_Handshake_Hibrido_Kyber_X25519.md](https://github.com/JulioCG9/Ejemplo_Botan_TLS_1_3_Handshake_Hibrido_Kyber_X25519/blob/main/Botan_TLS_1_3_Handshake_Hibrido_Kyber_X25519.md) tienen como objetivo ejemplificar de forma concisa, directa y gradual los pasos a seguir para realizar un *handshake* híbrido TLS 1.3 por medio de la librería criptográfica [Botan](https://github.com/randombit/botan). Los elementos que componen el proceso de hibridación son el esquema KEM PQC "Kyber" y el esquema KEM clásico de curva elíptica "x25519".
 
 - La versión de Botan empleada ha sido **Botan 3.4.0**.
 - La herramienta de Botan con la que se ha establecido el *setup* TLS 1.3 ha sido **Botan-CLI** (*Command Line Interface* de Botan).
